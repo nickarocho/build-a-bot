@@ -12,7 +12,7 @@
     </header>
     <main>
       <HomePage/>
-      <RobotBuilder/>
+      <RobotBuilder>
     </main>
   </div>
 </template>
